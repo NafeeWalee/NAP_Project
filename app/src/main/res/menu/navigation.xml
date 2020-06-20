@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/LoginNav"
+        android:icon="@drawable/loginicon"
+        android:title="Login"/>
+    <item
+        android:id="@+id/RegisNav"
+        android:icon="@drawable/regisicon"
+        android:title="Registration" />
+</menu>
